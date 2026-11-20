@@ -22,7 +22,31 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-## 📡 Live Telemetry & Visual Analytics
+🧬 System Profile (About Me) :
+
+<table>
+<tr>
+<td width="60%">
+
+```yaml
+abinaya@cloud-ai-lab:~$ cat profile.yml
+
+identity:
+  name: "Abinaya K S"
+  role: "BE - Computer Science & Engineering"
+  institution: "Rajalakshmi Institute of Technology 🎓"
+  location: "Chennai, India 📍"
+
+engineering_focus:
+  - "☁️ Cloud Infrastructure & Serverless (AWS)"
+  - "👁️ Real-Time Computer Vision & Object Tracking"
+  - "🤖 Local LLMs, RAG Pipelines & Vector Databases"
+  - "🔐 Network Security, Linux & Ethical Hacking"
+
+currently_building: "Next-gen AI applications with low-latency inference"
+open_for: ["Internships 💼", "Hackathons 🏆", "Open-Source Collabs 🤝"]
+
+📡 Live Telemetry & Visual Analytics
 
 <div align="center">
 
@@ -63,27 +87,3 @@
 <img src="https://raw.githubusercontent.com/abinayaks-cryptobit/abinayaks-cryptobit/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 
 </div>
-
-## 🧬 System Profile // About Me
-
-<table>
-<tr>
-<td width="60%">
-
-```yaml
-abinaya@cloud-ai-lab:~$ cat profile.yml
-
-identity:
-  name: "Abinaya K S"
-  role: "BE - Computer Science & Engineering"
-  institution: "Rajalakshmi Institute of Technology 🎓"
-  location: "Chennai, India 📍"
-
-engineering_focus:
-  - "☁️ Cloud Infrastructure & Serverless (AWS)"
-  - "👁️ Real-Time Computer Vision & Object Tracking"
-  - "🤖 Local LLMs, RAG Pipelines & Vector Databases"
-  - "🔐 Network Security, Linux & Ethical Hacking"
-
-currently_building: "Next-gen AI applications with low-latency inference"
-open_for: ["Internships 💼", "Hackathons 🏆", "Open-Source Collabs 🤝"]
